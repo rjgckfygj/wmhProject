@@ -1,0 +1,4 @@
+json=org.socket.serialization.fastjson.JsonSerialization
+jdk=org.socket.serialization.jdk.JdkSerialization
+kryo=org.socket.serialization.kryo.KryoSerialization
+hessian=org.socket.serialization.hessian.HessianSerialization
