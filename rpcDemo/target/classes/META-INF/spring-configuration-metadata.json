@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "rpc",
+      "type": "org.config.RpcProperties",
+      "sourceType": "org.config.RpcProperties"
+    },
+    {
+      "name": "rpc.registry",
+      "type": "org.config.RegistryProperties",
+      "sourceType": "org.config.RegistryProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rpc.core-poll-size",
+      "type": "java.lang.Integer",
+      "sourceType": "org.config.RpcProperties"
+    },
+    {
+      "name": "rpc.invoke",
+      "type": "java.lang.String",
+      "sourceType": "org.config.RpcProperties"
+    },
+    {
+      "name": "rpc.maximum-pool-size",
+      "type": "java.lang.Integer",
+      "sourceType": "org.config.RpcProperties"
+    },
+    {
+      "name": "rpc.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.config.RpcProperties"
+    },
+    {
+      "name": "rpc.proxy",
+      "type": "java.lang.String",
+      "sourceType": "org.config.RpcProperties"
+    },
+    {
+      "name": "rpc.registry",
+      "type": "org.config.RegistryProperties",
+      "sourceType": "org.config.RpcProperties"
+    },
+    {
+      "name": "rpc.registry.host",
+      "type": "java.lang.String",
+      "sourceType": "org.config.RegistryProperties"
+    },
+    {
+      "name": "rpc.registry.name",
+      "type": "java.lang.String",
+      "sourceType": "org.config.RegistryProperties"
+    },
+    {
+      "name": "rpc.serialization",
+      "type": "java.lang.String",
+      "sourceType": "org.config.RpcProperties"
+    }
+  ],
+  "hints": []
+}
