@@ -1,0 +1,2 @@
+failover=org.tolerant.FailoverFaultTolerantStrategy
+failFast=org.tolerant.FailFastFaultTolerantStrategy
